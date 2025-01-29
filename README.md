@@ -1,18 +1,18 @@
 ## Sobre mim 👋
 
-• Ex-MLSA Microsoft, fundador da beanalytics
-• Freelance e consultoria para empresas americanas
-• Escrevo e ministro conteúdos sobre Dados e Power BI
-• Pós-graduado em Analytics & Business Intelligence pela PUC Minas
-• LinkedIn Top Voice
+• Ex-MLSA Microsoft, fundador da beanalytics  
+• Freelance e consultoria para empresas americanas  
+• Escrevo e ministro conteúdos sobre Dados e Power BI  
+• Pós-graduado em Analytics & Business Intelligence pela PUC Minas  
+• LinkedIn Top Voice  
 
-## Possuo as Certificações
+### Possuo as Certificações
 
-• Microsoft Fabric Analytics Engineer Associate (DP-600)
-• Microsoft Power BI Data Analyst Associate (PL-300)
-• Microsoft Power Platform Fundamentals (PL-900)
-• Microsoft Certified Trainer (MCT)
-• Microsoft Learn Student Ambassadors Beta-β (MLSA)
+• Microsoft Fabric Analytics Engineer Associate (DP-600)  
+• Microsoft Power BI Data Analyst Associate (PL-300)  
+• Microsoft Power Platform Fundamentals (PL-900)  
+• Microsoft Certified Trainer (MCT)  
+• Microsoft Learn Student Ambassadors Beta-β (MLSA)  
 • Databricks Fundamentals
 
 <!--
